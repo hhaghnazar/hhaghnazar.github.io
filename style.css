@@ -226,6 +226,13 @@ a {
         justify-content: center;
     }
 
+    #projects{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 4rem;
+    }
+
     .profile {
         display: flex;
         align-items: center;
